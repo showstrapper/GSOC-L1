@@ -67,6 +67,30 @@ or the mentee's preferences.
 Track weekly progress in this section according to above mentioned goals.
 
 - ### Week 1 
-    - [ ] Task 1
-    - [ ] Task 2
-    - [ ] Task 3
+    - [x] Learn more about Git and Github
+    	- [x] [Git tutorial](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
+	    - [x] [Git internals](https://www.youtube.com/watch?v=GFNPoHGeVDM)
+    	- [x] [Complete practice on TryGit](https://try.github.io/levels/1/challenges/1)
+        - [x] [Git advanced tutorials](https://www.youtube.com/watch?v=0SJCYPsef54)
+    - [x] AUL: Always Use Linux. Specially when programming.
+    - [x] IRC
+    	- [x] Learn how IRC works (Just google search)
+	    - [x] Sign up on IRC and explore some channels (Ex: #javadevs)
+    - [x] Explore projects on Openhub and list down top 5 which you like.
+    - [x] Setup Virtualbox on linux and install OS
+    - [x] Do research in finding the right project
+        - [x] Go throught list of organizations that participated GSOC in last 3 years.
+        - [x] Use [OpenHub](https://www.openhub.net) to explore.
+        - [x] Select 3 suitable organizations.
+        - [x] Select 3 projects per organization.
+	
+- ### Week 2
+    - [x] Final org selecting
+    	- [x] Select one legacy org
+        - [x] Select one new org
+    - [x] First code submission
+        - [x] Finalize a project to start contributing into.
+        - [x] Install development environment
+        - [x] Go through how to contribute.
+        - [x] Select a simple issue to solve.
+        - [x] Create and merge pull request.
